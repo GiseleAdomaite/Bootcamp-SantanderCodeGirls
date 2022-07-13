@@ -1,0 +1,19 @@
+Link para download do Git https://git-scm.com/downloads
+Link para GitHub https://github.com/
+
+Comandos utilizados no curso
+
+ls -> listar 
+ls -a -> listar arquivos ocultos
+mkdir -> criar pastas
+mv -> move arqvuivos (estrutura: mv arquivo \nome da pasta)
+cd .. -> voltar pasta anterior
+echo > *.* -> criar arquivo (esturtura: nome do arquivo com extensão)
+git add -a -> adiciona os arquivos para envio ao git
+git init
+git status
+git config --global
+git config --list
+git commit -m 
+git push origin master
+git pull

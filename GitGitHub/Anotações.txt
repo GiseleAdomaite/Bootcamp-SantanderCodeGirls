@@ -15,5 +15,5 @@ git status
 git config --global
 git config --list
 git commit -m 
-git push origin master
+git push origin main
 git pull
